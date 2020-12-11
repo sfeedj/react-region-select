@@ -87,6 +87,11 @@ Use for styling the outer layer
 
 Place objects inside the component and the regions will appear above them.
 
+#### defaultData (object)
+
+Use for passing default data to region.data.defaultData.
+
+
 ## Example
 
 See [src/example/App.js](./src/example/App.js)
